@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="35" src="https://github.com/VrenCe/VrenCe/blob/main/image.png?raw=true"  />
+  <img height="35" src="https://raw.githubusercontent.com/VranCe/VranCe/main/image.png"  />
 </div>
 
 ###
